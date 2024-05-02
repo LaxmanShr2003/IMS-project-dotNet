@@ -1,0 +1,53 @@
+﻿@model ProjectProduct.Models.Product
+
+
+
+
+@if (Model.Id == 0)
+{
+    <div>
+        <p>Add</p>
+    </div>
+}
+else
+{
+    <div>
+        <p>Update</p>
+    </div>
+}
+<form method="post" asp-action="AddEdit">
+    <input asp-for="Id" hidden />
+    <div class="mb-3 mt-3">
+        <label asp-for="ProductName">Product Name</label>
+        <input asp-for="ProductName" class="form-control" placeholder="Enter Product Name">
+        <span asp-validation-for="ProductName"> </span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="ProductTitle">Product Title</label>
+        <input asp-for="ProductTitle" class="form-control" placeholder="Enter Product Title">
+        <span asp-validation-for="ProductTitle"> </span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="ProductCount">Class</label>
+        <input asp-for="ProductCount" class="form-control" placeholder="Enter Product Count">
+        <span asp-validation-for="ProductCount"> </span>
+    </div>
+    <div>
+        <label asp-for="ProductDescription">Email</label>
+        <input asp-for="ProductDescription" class="form-control" placeholder="Enter Product Description">
+        <span asp-validation-for="ProductDescription"> </span>
+    </div>
+
+
+    @if (Model.Id == 0)
+    {
+        <button type="submit" class="btn btn-primary" m-4>Add</button>
+
+    }
+    else
+    {
+        <button type="submit" class="btn btn-primary" m-4>Update</button>
+
+    }
+
+</form>

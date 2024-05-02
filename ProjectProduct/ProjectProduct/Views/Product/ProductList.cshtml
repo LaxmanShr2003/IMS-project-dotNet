@@ -1,0 +1,74 @@
+﻿@model IEnumerable<ProjectProduct.Models.Product>
+
+<div class="row">
+
+    <div class="col-12 ">
+
+        <a class="btn btn-primary float-end " asp-action="AddEdit">Add New</a>
+    </div>
+
+
+</div>
+
+
+<div class="row">
+
+    <div class="col-12">
+
+
+
+        <div class=" row">
+            <table class="table table-hover">
+                <thead>
+                    <tr>
+                        <th>
+                           Product Name
+                        </th>
+                        <th>
+                           Product Title
+                        </th>
+                        <th>
+                            Product Count
+                        </th>
+                        <th>
+                            Product Description
+                        </th>
+                       
+                        <th>
+                            Action
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+
+                    @foreach (var items in Model)
+                    {
+                        <tr>
+                            <td>
+                                @items.ProductName
+                            </td>
+                            <td>
+                                @items.ProductTitle
+                            </td>
+                            <td>
+                                @items.ProductCount
+                            </td>
+                            <td>
+                                @items.ProductDescription
+                            </td>
+                         
+
+                            <td>
+                                <a class="btn btn-primary" asp-action="AddEdit" asp-route-id="@items.Id">Update</a>
+                            </td>
+                            <td>
+                                <a class="btn btn-danger" asp-action="Delete" asp-route-id="@items.Id">Delete</a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+
+    </div>
+</div>

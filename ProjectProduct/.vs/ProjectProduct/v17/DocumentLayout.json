@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DotNet\\ProjectProduct\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B2744FA-4DDC-416E-9412-68C4FDEA10D1}|ProjectProduct\\ProjectProduct.csproj|d:\\dotnet\\projectproduct\\projectproduct\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B2744FA-4DDC-416E-9412-68C4FDEA10D1}|ProjectProduct\\ProjectProduct.csproj|solutionrelative:projectproduct\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B2744FA-4DDC-416E-9412-68C4FDEA10D1}|ProjectProduct\\ProjectProduct.csproj|d:\\dotnet\\projectproduct\\projectproduct\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B2744FA-4DDC-416E-9412-68C4FDEA10D1}|ProjectProduct\\ProjectProduct.csproj|solutionrelative:projectproduct\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B2744FA-4DDC-416E-9412-68C4FDEA10D1}|ProjectProduct\\ProjectProduct.csproj|d:\\dotnet\\projectproduct\\projectproduct\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B2744FA-4DDC-416E-9412-68C4FDEA10D1}|ProjectProduct\\ProjectProduct.csproj|solutionrelative:projectproduct\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B2744FA-4DDC-416E-9412-68C4FDEA10D1}|ProjectProduct\\ProjectProduct.csproj|d:\\dotnet\\projectproduct\\projectproduct\\views\\product\\productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B2744FA-4DDC-416E-9412-68C4FDEA10D1}|ProjectProduct\\ProjectProduct.csproj|solutionrelative:projectproduct\\views\\product\\productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B2744FA-4DDC-416E-9412-68C4FDEA10D1}|ProjectProduct\\ProjectProduct.csproj|d:\\dotnet\\projectproduct\\projectproduct\\views\\product\\addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B2744FA-4DDC-416E-9412-68C4FDEA10D1}|ProjectProduct\\ProjectProduct.csproj|solutionrelative:projectproduct\\views\\product\\addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B2744FA-4DDC-416E-9412-68C4FDEA10D1}|ProjectProduct\\ProjectProduct.csproj|d:\\dotnet\\projectproduct\\projectproduct\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B2744FA-4DDC-416E-9412-68C4FDEA10D1}|ProjectProduct\\ProjectProduct.csproj|solutionrelative:projectproduct\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B2744FA-4DDC-416E-9412-68C4FDEA10D1}|ProjectProduct\\ProjectProduct.csproj|d:\\dotnet\\projectproduct\\projectproduct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B2744FA-4DDC-416E-9412-68C4FDEA10D1}|ProjectProduct\\ProjectProduct.csproj|solutionrelative:projectproduct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B2744FA-4DDC-416E-9412-68C4FDEA10D1}|ProjectProduct\\ProjectProduct.csproj|d:\\dotnet\\projectproduct\\projectproduct\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8B2744FA-4DDC-416E-9412-68C4FDEA10D1}|ProjectProduct\\ProjectProduct.csproj|solutionrelative:projectproduct\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B2744FA-4DDC-416E-9412-68C4FDEA10D1}|ProjectProduct\\ProjectProduct.csproj|d:\\dotnet\\projectproduct\\projectproduct\\projectproduct.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8B2744FA-4DDC-416E-9412-68C4FDEA10D1}|ProjectProduct\\ProjectProduct.csproj|solutionrelative:projectproduct\\projectproduct.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B2744FA-4DDC-416E-9412-68C4FDEA10D1}|ProjectProduct\\ProjectProduct.csproj|d:\\dotnet\\projectproduct\\projectproduct\\migrations\\20240424115206_productdbmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B2744FA-4DDC-416E-9412-68C4FDEA10D1}|ProjectProduct\\ProjectProduct.csproj|solutionrelative:projectproduct\\migrations\\20240424115206_productdbmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B2744FA-4DDC-416E-9412-68C4FDEA10D1}|ProjectProduct\\ProjectProduct.csproj|d:\\dotnet\\projectproduct\\projectproduct\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B2744FA-4DDC-416E-9412-68C4FDEA10D1}|ProjectProduct\\ProjectProduct.csproj|solutionrelative:projectproduct\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProjectProduct",
+              "DocumentMoniker": "D:\\DotNet\\ProjectProduct\\ProjectProduct\\ProjectProduct.csproj",
+              "RelativeDocumentMoniker": "ProjectProduct\\ProjectProduct.csproj",
+              "ToolTip": "D:\\DotNet\\ProjectProduct\\ProjectProduct\\ProjectProduct.csproj",
+              "RelativeToolTip": "ProjectProduct\\ProjectProduct.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-27T16:25:14.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\DotNet\\ProjectProduct\\ProjectProduct\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ProjectProduct\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\DotNet\\ProjectProduct\\ProjectProduct\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ProjectProduct\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T13:15:28.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240424115206_ProductDBMigration.cs",
+              "DocumentMoniker": "D:\\DotNet\\ProjectProduct\\ProjectProduct\\Migrations\\20240424115206_ProductDBMigration.cs",
+              "RelativeDocumentMoniker": "ProjectProduct\\Migrations\\20240424115206_ProductDBMigration.cs",
+              "ToolTip": "D:\\DotNet\\ProjectProduct\\ProjectProduct\\Migrations\\20240424115206_ProductDBMigration.cs",
+              "RelativeToolTip": "ProjectProduct\\Migrations\\20240424115206_ProductDBMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T12:25:52.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\DotNet\\ProjectProduct\\ProjectProduct\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ProjectProduct\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\DotNet\\ProjectProduct\\ProjectProduct\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "ProjectProduct\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T12:25:51.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DotNet\\ProjectProduct\\ProjectProduct\\appsettings.json",
+              "RelativeDocumentMoniker": "ProjectProduct\\appsettings.json",
+              "ToolTip": "D:\\DotNet\\ProjectProduct\\ProjectProduct\\appsettings.json",
+              "RelativeToolTip": "ProjectProduct\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-24T12:25:09.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNet\\ProjectProduct\\ProjectProduct\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectProduct\\Program.cs",
+              "ToolTip": "D:\\DotNet\\ProjectProduct\\ProjectProduct\\Program.cs",
+              "RelativeToolTip": "ProjectProduct\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T12:25:04.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddEdit.cshtml",
+              "DocumentMoniker": "D:\\DotNet\\ProjectProduct\\ProjectProduct\\Views\\Product\\AddEdit.cshtml",
+              "RelativeDocumentMoniker": "ProjectProduct\\Views\\Product\\AddEdit.cshtml",
+              "ToolTip": "D:\\DotNet\\ProjectProduct\\ProjectProduct\\Views\\Product\\AddEdit.cshtml",
+              "RelativeToolTip": "ProjectProduct\\Views\\Product\\AddEdit.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T12:19:04.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\DotNet\\ProjectProduct\\ProjectProduct\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProjectProduct\\Models\\Product.cs",
+              "ToolTip": "D:\\DotNet\\ProjectProduct\\ProjectProduct\\Models\\Product.cs",
+              "RelativeToolTip": "ProjectProduct\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T12:03:29.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductList.cshtml",
+              "DocumentMoniker": "D:\\DotNet\\ProjectProduct\\ProjectProduct\\Views\\Product\\ProductList.cshtml",
+              "RelativeDocumentMoniker": "ProjectProduct\\Views\\Product\\ProductList.cshtml",
+              "ToolTip": "D:\\DotNet\\ProjectProduct\\ProjectProduct\\Views\\Product\\ProductList.cshtml",
+              "RelativeToolTip": "ProjectProduct\\Views\\Product\\ProductList.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T12:01:22.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\DotNet\\ProjectProduct\\ProjectProduct\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProjectProduct\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\DotNet\\ProjectProduct\\ProjectProduct\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProjectProduct\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB0AAACDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T11:55:40.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\DotNet\\ProjectProduct\\ProjectProduct\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProjectProduct\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\DotNet\\ProjectProduct\\ProjectProduct\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProjectProduct\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAkwCsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T11:53:04.598Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
