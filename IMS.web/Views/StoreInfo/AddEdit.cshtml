@@ -1,0 +1,56 @@
+﻿@model IMS.models.Entity.StoreInfo
+
+@if (Model.Id > 0)
+{
+    <h1>Edit Store Info</h1>
+}
+else
+{
+    <h2>Create Store Info</h2>
+}
+
+<form asp-action="AddEdit">
+    <div class="form-group">
+        <label asp-for="StoreName" class="control-label" required"></label>
+        <input asp-for="StoreName" class="form-control" />
+        <span asp-validation-for="StoreName" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Address" class="control-label" ></label>
+        <input asp-for="Address" class="form-control" />
+        <span asp-validation-for="Address" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="PhoneNumber" class="control-label"></label>
+        <input asp-for="PhoneNumber" class="form-control" />
+        <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="RegistrationNumber" class="control-label"></label>
+        <input asp-for="RegistrationNumber" class="form-control" />
+        <span asp-validation-for="RegistrationNumber" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="PanNo" class="control-label"></label>
+        <input asp-for="PanNo" class="form-control" />
+        <span asp-validation-for="PanNo" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="IsActive" class="control-label">Is Active</label>
+        <input class="form-check-input" type="checkbox" asp-for="IsActive"  />
+        <span asp-validation-for="IsActive" class="text-danger"></span>
+    </div>
+
+    <div class="form-group mt-5">
+        <button type="submit" class="btn btn-primary">@((Model.Id > 0) ? "Update" : "Create")</button>
+    </div>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

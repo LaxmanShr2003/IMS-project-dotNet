@@ -1,0 +1,12 @@
+D:\DotNet\IMS.utility\bin\Debug\net8.0\IMS.utility.deps.json
+D:\DotNet\IMS.utility\bin\Debug\net8.0\IMS.utility.dll
+D:\DotNet\IMS.utility\bin\Debug\net8.0\IMS.utility.pdb
+D:\DotNet\IMS.utility\obj\Debug\net8.0\IMS.utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\IMS.utility\obj\Debug\net8.0\IMS.utility.AssemblyInfoInputs.cache
+D:\DotNet\IMS.utility\obj\Debug\net8.0\IMS.utility.AssemblyInfo.cs
+D:\DotNet\IMS.utility\obj\Debug\net8.0\IMS.utility.csproj.CoreCompileInputs.cache
+D:\DotNet\IMS.utility\obj\Debug\net8.0\IMS.utility.dll
+D:\DotNet\IMS.utility\obj\Debug\net8.0\refint\IMS.utility.dll
+D:\DotNet\IMS.utility\obj\Debug\net8.0\IMS.utility.pdb
+D:\DotNet\IMS.utility\obj\Debug\net8.0\ref\IMS.utility.dll
+D:\DotNet\IMS.utility\obj\Debug\net8.0\IMS.utility.sourcelink.json
