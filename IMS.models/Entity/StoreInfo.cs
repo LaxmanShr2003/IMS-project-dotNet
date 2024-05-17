@@ -24,8 +24,24 @@ namespace IMS.models.Entity
         public string PanNo { get; set; }
         public bool IsActive { get; set; }
         public DateTime CreatedDate { get; set; }
-        public String CreatedBy { get; set; }
-        public DateTime ModifiedDate { get; set; }
-        public String ModifiedBy { get; set; }
+        public string CreatedBy { get; set; }
+        public DateTime? ModifiedDate { get; set; }
+        public string ModifiedBy { get; set; }
+
+        public virtual ICollection<CategoryInfo> CategoryInfos { get; set; }
+        public virtual ICollection<CustomerInfo> CustomerInfos { get; set; }
+        public virtual ICollection<ProductInfo> ProductInfos { get; set; }
+        public virtual ICollection<RackInfo> RackInfos { get; set; }
+
+        public virtual ICollection<StockInfo> StockInfos { get; set; }
+        public virtual ICollection<SupplierInfo> SuppliersInfos { get; set; }
+        public virtual ICollection<TransationInfo> TransationsInfos { get; set; }
+        public virtual ICollection<ProductInvoiceInfo> ProductInvoiceInfos { get; set; }
+        public virtual ICollection<productRateInfo> productRateInfos { get; set; }
+
+
+
+
+
     }
 }
