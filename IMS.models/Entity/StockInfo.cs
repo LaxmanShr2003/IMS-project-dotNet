@@ -8,7 +8,7 @@ namespace IMS.models.Entity
 {
     public class StockInfo:BaseEntity
     {
-        public int CategroyInfoId { get; set; }
+        public int CategoryInfoId { get; set; }
         public int ProductInfoId { get; set; }
         public int ProductRateInfoId {  get; set; }   
         public float Quantity { get; set; }
@@ -22,7 +22,7 @@ namespace IMS.models.Entity
 
         public virtual CategoryInfo CategoryInfo { get; set; }
         public virtual ProductInfo ProductInfo { get;set; }
-        public virtual productRateInfo ProductRateInfo { get; set; }
+        public virtual ProductRateInfo ProductRateInfo { get; set; }
         public virtual StoreInfo StoreInfo { get; set; }
 
        

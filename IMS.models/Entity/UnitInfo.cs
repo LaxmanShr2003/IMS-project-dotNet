@@ -16,8 +16,7 @@ namespace IMS.models.Entity
         public string ModifiedBy { get; set; }
         public virtual ICollection<ProductInfo> ProductInfos {  get; set; }
         public virtual ICollection<TransationInfo> TransationInfos { get; set; }
-        public virtual ICollection<ProductInvoiceInfo> ProductInvoices { get; set; }
-
+       
 
     }
 }

@@ -34,10 +34,10 @@ namespace IMS.models.Entity
         public virtual ICollection<RackInfo> RackInfos { get; set; }
 
         public virtual ICollection<StockInfo> StockInfos { get; set; }
-        public virtual ICollection<SupplierInfo> SuppliersInfos { get; set; }
-        public virtual ICollection<TransationInfo> TransationsInfos { get; set; }
+        public virtual ICollection<SupplierInfo> SupplierInfos { get; set; }
+        public virtual ICollection<TransationInfo> TransationInfos { get; set; }
         public virtual ICollection<ProductInvoiceInfo> ProductInvoiceInfos { get; set; }
-        public virtual ICollection<productRateInfo> productRateInfos { get; set; }
+        public virtual ICollection<ProductRateInfo> ProductRateInfos { get; set; }
 
 
 

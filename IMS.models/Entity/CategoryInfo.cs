@@ -24,7 +24,7 @@ namespace IMS.models.Entity
         public virtual ICollection<TransationInfo> TransationInfos { get; set; }
        
 
-        public virtual ICollection<productRateInfo> ProductRateInfos { get; set; }
+        public virtual ICollection<ProductRateInfo> ProductRateInfos { get; set; }
 
 
         

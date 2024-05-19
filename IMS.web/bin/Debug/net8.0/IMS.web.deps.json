@@ -2136,6 +2136,7 @@
       "IMS.infrastructure/1.0.0": {
         "dependencies": {
           "IMS.models": "1.0.0",
+          "Microsoft.AspNetCore.Identity.UI": "8.0.4",
           "Microsoft.EntityFrameworkCore.Tools": "8.0.4"
         },
         "runtime": {

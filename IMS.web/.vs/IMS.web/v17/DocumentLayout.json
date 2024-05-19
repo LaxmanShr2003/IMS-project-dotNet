@@ -3,40 +3,86 @@
   "WorkspaceRootPath": "D:\\DotNet\\IMS.web\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FA08871C-CC82-4DDE-A197-BD6DA262DFC3}|..\\IMS.models\\IMS.models.csproj|d:\\dotnet\\ims.models\\entity\\productdetailinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|d:\\dotnet\\ims.web\\ims.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|solutionrelative:ims.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA08871C-CC82-4DDE-A197-BD6DA262DFC3}|..\\IMS.models\\IMS.models.csproj|d:\\dotnet\\ims.models\\entity\\customerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E9CBBCA-5D76-4F0A-883C-98A3DBFF5C12}|..\\IMS.infrastructure\\IMS.infrastructure.csproj|d:\\dotnet\\ims.infrastructure\\services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA08871C-CC82-4DDE-A197-BD6DA262DFC3}|..\\IMS.models\\IMS.models.csproj|d:\\dotnet\\ims.models\\entity\\categoryinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E9CBBCA-5D76-4F0A-883C-98A3DBFF5C12}|..\\IMS.infrastructure\\IMS.infrastructure.csproj|d:\\dotnet\\ims.infrastructure\\entity_configuration\\unitinfo_configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA08871C-CC82-4DDE-A197-BD6DA262DFC3}|..\\IMS.models\\IMS.models.csproj|d:\\dotnet\\ims.models\\entity\\productinvoiceinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E9CBBCA-5D76-4F0A-883C-98A3DBFF5C12}|..\\IMS.infrastructure\\IMS.infrastructure.csproj|d:\\dotnet\\ims.infrastructure\\entity_configuration\\supplierinfo_configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA08871C-CC82-4DDE-A197-BD6DA262DFC3}|..\\IMS.models\\IMS.models.csproj|d:\\dotnet\\ims.models\\entity\\supplierinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA08871C-CC82-4DDE-A197-BD6DA262DFC3}|..\\IMS.models\\IMS.models.csproj|d:\\dotnet\\ims.models\\entity\\storeinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA08871C-CC82-4DDE-A197-BD6DA262DFC3}|..\\IMS.models\\IMS.models.csproj|d:\\dotnet\\ims.models\\entity\\transationinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA08871C-CC82-4DDE-A197-BD6DA262DFC3}|..\\IMS.models\\IMS.models.csproj|d:\\dotnet\\ims.models\\entity\\stockinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E9CBBCA-5D76-4F0A-883C-98A3DBFF5C12}|..\\IMS.infrastructure\\IMS.infrastructure.csproj|d:\\dotnet\\ims.infrastructure\\entity_configuration\\rackinfo_configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FA08871C-CC82-4DDE-A197-BD6DA262DFC3}|..\\IMS.models\\IMS.models.csproj|d:\\dotnet\\ims.models\\entity\\productrateinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4E9CBBCA-5D76-4F0A-883C-98A3DBFF5C12}|..\\IMS.infrastructure\\IMS.infrastructure.csproj|d:\\dotnet\\ims.infrastructure\\entity_configuration\\productrateinfo_configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9CBBCA-5D76-4F0A-883C-98A3DBFF5C12}|..\\IMS.infrastructure\\IMS.infrastructure.csproj|d:\\dotnet\\ims.infrastructure\\entity_configuration\\productinvoiceinfo_configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9CBBCA-5D76-4F0A-883C-98A3DBFF5C12}|..\\IMS.infrastructure\\IMS.infrastructure.csproj|d:\\dotnet\\ims.infrastructure\\entity_configuration\\customer_configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9CBBCA-5D76-4F0A-883C-98A3DBFF5C12}|..\\IMS.infrastructure\\IMS.infrastructure.csproj|d:\\dotnet\\ims.infrastructure\\entity_configuration\\productinfo_configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9CBBCA-5D76-4F0A-883C-98A3DBFF5C12}|..\\IMS.infrastructure\\IMS.infrastructure.csproj|d:\\dotnet\\ims.infrastructure\\entity_configuration\\productinvoicedetailinfo_configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA08871C-CC82-4DDE-A197-BD6DA262DFC3}|..\\IMS.models\\IMS.models.csproj|d:\\dotnet\\ims.models\\entity\\storeinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA08871C-CC82-4DDE-A197-BD6DA262DFC3}|..\\IMS.models\\IMS.models.csproj|d:\\dotnet\\ims.models\\entity\\productinvoiceinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9CBBCA-5D76-4F0A-883C-98A3DBFF5C12}|..\\IMS.infrastructure\\IMS.infrastructure.csproj|d:\\dotnet\\ims.infrastructure\\entity_configuration\\stockinfo_configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9CBBCA-5D76-4F0A-883C-98A3DBFF5C12}|..\\IMS.infrastructure\\IMS.infrastructure.csproj|d:\\dotnet\\ims.infrastructure\\entity_configuration\\storeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9CBBCA-5D76-4F0A-883C-98A3DBFF5C12}|..\\IMS.infrastructure\\IMS.infrastructure.csproj|d:\\dotnet\\ims.infrastructure\\entity_configuration\\transationinfo_configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9CBBCA-5D76-4F0A-883C-98A3DBFF5C12}|..\\IMS.infrastructure\\IMS.infrastructure.csproj|d:\\dotnet\\ims.infrastructure\\entity_configuration\\category_configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA08871C-CC82-4DDE-A197-BD6DA262DFC3}|..\\IMS.models\\IMS.models.csproj|d:\\dotnet\\ims.models\\entity\\productinvoicedetailinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA08871C-CC82-4DDE-A197-BD6DA262DFC3}|..\\IMS.models\\IMS.models.csproj|d:\\dotnet\\ims.models\\entity\\categoryinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA08871C-CC82-4DDE-A197-BD6DA262DFC3}|..\\IMS.models\\IMS.models.csproj|d:\\dotnet\\ims.models\\entity\\transationinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA08871C-CC82-4DDE-A197-BD6DA262DFC3}|..\\IMS.models\\IMS.models.csproj|d:\\dotnet\\ims.models\\entity\\unitinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA08871C-CC82-4DDE-A197-BD6DA262DFC3}|..\\IMS.models\\IMS.models.csproj|d:\\dotnet\\ims.models\\entity\\supplierinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FA08871C-CC82-4DDE-A197-BD6DA262DFC3}|..\\IMS.models\\IMS.models.csproj|d:\\dotnet\\ims.models\\entity\\rackinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E9CBBCA-5D76-4F0A-883C-98A3DBFF5C12}|..\\IMS.infrastructure\\IMS.infrastructure.csproj|d:\\dotnet\\ims.infrastructure\\imsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FA08871C-CC82-4DDE-A197-BD6DA262DFC3}|..\\IMS.models\\IMS.models.csproj|d:\\dotnet\\ims.models\\entity\\productinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA08871C-CC82-4DDE-A197-BD6DA262DFC3}|..\\IMS.models\\IMS.models.csproj|d:\\dotnet\\ims.models\\entity\\unitinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA08871C-CC82-4DDE-A197-BD6DA262DFC3}|..\\IMS.models\\IMS.models.csproj|d:\\dotnet\\ims.models\\entity\\customerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA08871C-CC82-4DDE-A197-BD6DA262DFC3}|..\\IMS.models\\IMS.models.csproj|d:\\dotnet\\ims.models\\entity\\stockinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,20 +92,150 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 18,
               "Title": "CategoryInfo.cs",
               "DocumentMoniker": "D:\\DotNet\\IMS.models\\Entity\\CategoryInfo.cs",
               "RelativeDocumentMoniker": "..\\IMS.models\\Entity\\CategoryInfo.cs",
               "ToolTip": "D:\\DotNet\\IMS.models\\Entity\\CategoryInfo.cs",
               "RelativeToolTip": "..\\IMS.models\\Entity\\CategoryInfo.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAzwBgAAAAHAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-15T11:41:48.993Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IMS.web",
+              "DocumentMoniker": "D:\\DotNet\\IMS.web\\IMS.web.csproj",
+              "RelativeDocumentMoniker": "IMS.web.csproj",
+              "ToolTip": "D:\\DotNet\\IMS.web\\IMS.web.csproj",
+              "RelativeToolTip": "IMS.web.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-19T13:39:58.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "D:\\DotNet\\IMS.infrastructure\\Services\\EmailSender.cs",
+              "RelativeDocumentMoniker": "..\\IMS.infrastructure\\Services\\EmailSender.cs",
+              "ToolTip": "D:\\DotNet\\IMS.infrastructure\\Services\\EmailSender.cs",
+              "RelativeToolTip": "..\\IMS.infrastructure\\Services\\EmailSender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T13:38:52.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductInvoiceDetailInfo_Configuration.cs",
+              "DocumentMoniker": "D:\\DotNet\\IMS.infrastructure\\Entity_Configuration\\ProductInvoiceDetailInfo_Configuration.cs",
+              "RelativeDocumentMoniker": "..\\IMS.infrastructure\\Entity_Configuration\\ProductInvoiceDetailInfo_Configuration.cs",
+              "ToolTip": "D:\\DotNet\\IMS.infrastructure\\Entity_Configuration\\ProductInvoiceDetailInfo_Configuration.cs",
+              "RelativeToolTip": "..\\IMS.infrastructure\\Entity_Configuration\\ProductInvoiceDetailInfo_Configuration.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwBQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T13:11:55.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ImsDbContext.cs",
+              "DocumentMoniker": "D:\\DotNet\\IMS.infrastructure\\ImsDbContext.cs",
+              "RelativeDocumentMoniker": "..\\IMS.infrastructure\\ImsDbContext.cs",
+              "ToolTip": "D:\\DotNet\\IMS.infrastructure\\ImsDbContext.cs",
+              "RelativeToolTip": "..\\IMS.infrastructure\\ImsDbContext.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA4wB8AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T13:02:45.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitInfo_Configuration.cs",
+              "DocumentMoniker": "D:\\DotNet\\IMS.infrastructure\\Entity_Configuration\\UnitInfo_Configuration.cs",
+              "RelativeDocumentMoniker": "..\\IMS.infrastructure\\Entity_Configuration\\UnitInfo_Configuration.cs",
+              "ToolTip": "D:\\DotNet\\IMS.infrastructure\\Entity_Configuration\\UnitInfo_Configuration.cs",
+              "RelativeToolTip": "..\\IMS.infrastructure\\Entity_Configuration\\UnitInfo_Configuration.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAqwCUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T12:43:00.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TransationInfo_Configuration.cs",
+              "DocumentMoniker": "D:\\DotNet\\IMS.infrastructure\\Entity_Configuration\\TransationInfo_Configuration.cs",
+              "RelativeDocumentMoniker": "..\\IMS.infrastructure\\Entity_Configuration\\TransationInfo_Configuration.cs",
+              "ToolTip": "D:\\DotNet\\IMS.infrastructure\\Entity_Configuration\\TransationInfo_Configuration.cs",
+              "RelativeToolTip": "..\\IMS.infrastructure\\Entity_Configuration\\TransationInfo_Configuration.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAQwBoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T12:30:59.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SupplierInfo_Configuration.cs",
+              "DocumentMoniker": "D:\\DotNet\\IMS.infrastructure\\Entity_Configuration\\SupplierInfo_Configuration.cs",
+              "RelativeDocumentMoniker": "..\\IMS.infrastructure\\Entity_Configuration\\SupplierInfo_Configuration.cs",
+              "ToolTip": "D:\\DotNet\\IMS.infrastructure\\Entity_Configuration\\SupplierInfo_Configuration.cs",
+              "RelativeToolTip": "..\\IMS.infrastructure\\Entity_Configuration\\SupplierInfo_Configuration.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAqwD0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T12:23:26.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StockInfo_Configuration.cs",
+              "DocumentMoniker": "D:\\DotNet\\IMS.infrastructure\\Entity_Configuration\\StockInfo_Configuration.cs",
+              "RelativeDocumentMoniker": "..\\IMS.infrastructure\\Entity_Configuration\\StockInfo_Configuration.cs",
+              "ToolTip": "D:\\DotNet\\IMS.infrastructure\\Entity_Configuration\\StockInfo_Configuration.cs",
+              "RelativeToolTip": "..\\IMS.infrastructure\\Entity_Configuration\\StockInfo_Configuration.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwDIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T12:17:49.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RackInfo_Configuration.cs",
+              "DocumentMoniker": "D:\\DotNet\\IMS.infrastructure\\Entity_Configuration\\RackInfo_Configuration.cs",
+              "RelativeDocumentMoniker": "..\\IMS.infrastructure\\Entity_Configuration\\RackInfo_Configuration.cs",
+              "ToolTip": "D:\\DotNet\\IMS.infrastructure\\Entity_Configuration\\RackInfo_Configuration.cs",
+              "RelativeToolTip": "..\\IMS.infrastructure\\Entity_Configuration\\RackInfo_Configuration.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAqwC4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T12:16:01.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductInvoiceDetailInfo.cs",
+              "DocumentMoniker": "D:\\DotNet\\IMS.models\\Entity\\ProductInvoiceDetailInfo.cs",
+              "RelativeDocumentMoniker": "..\\IMS.models\\Entity\\ProductInvoiceDetailInfo.cs",
+              "ToolTip": "D:\\DotNet\\IMS.models\\Entity\\ProductInvoiceDetailInfo.cs",
+              "RelativeToolTip": "..\\IMS.models\\Entity\\ProductInvoiceDetailInfo.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwA4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T11:43:07.465Z",
               "EditorCaption": ""
             },
             {
@@ -68,142 +244,208 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductDetailInfo.cs",
-              "DocumentMoniker": "D:\\DotNet\\IMS.models\\Entity\\ProductDetailInfo.cs",
-              "RelativeDocumentMoniker": "..\\IMS.models\\Entity\\ProductDetailInfo.cs",
-              "ToolTip": "D:\\DotNet\\IMS.models\\Entity\\ProductDetailInfo.cs",
-              "RelativeToolTip": "..\\IMS.models\\Entity\\ProductDetailInfo.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAqAAAA",
+              "DocumentIndex": 6,
+              "Title": "ProductRateInfo_Configuration.cs",
+              "DocumentMoniker": "D:\\DotNet\\IMS.infrastructure\\Entity_Configuration\\ProductRateInfo_Configuration.cs",
+              "RelativeDocumentMoniker": "..\\IMS.infrastructure\\Entity_Configuration\\ProductRateInfo_Configuration.cs",
+              "ToolTip": "D:\\DotNet\\IMS.infrastructure\\Entity_Configuration\\ProductRateInfo_Configuration.cs",
+              "RelativeToolTip": "..\\IMS.infrastructure\\Entity_Configuration\\ProductRateInfo_Configuration.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBsAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T13:20:12.213Z",
+              "WhenOpened": "2024-05-17T13:08:11.58Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
+              "Title": "ProductInvoiceInfo_Configuration.cs",
+              "DocumentMoniker": "D:\\DotNet\\IMS.infrastructure\\Entity_Configuration\\ProductInvoiceInfo_Configuration.cs",
+              "RelativeDocumentMoniker": "..\\IMS.infrastructure\\Entity_Configuration\\ProductInvoiceInfo_Configuration.cs",
+              "ToolTip": "D:\\DotNet\\IMS.infrastructure\\Entity_Configuration\\ProductInvoiceInfo_Configuration.cs",
+              "RelativeToolTip": "..\\IMS.infrastructure\\Entity_Configuration\\ProductInvoiceInfo_Configuration.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAQwDIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T13:05:06.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductInfo_Configuration.cs",
+              "DocumentMoniker": "D:\\DotNet\\IMS.infrastructure\\Entity_Configuration\\ProductInfo_Configuration.cs",
+              "RelativeDocumentMoniker": "..\\IMS.infrastructure\\Entity_Configuration\\ProductInfo_Configuration.cs",
+              "ToolTip": "D:\\DotNet\\IMS.infrastructure\\Entity_Configuration\\ProductInfo_Configuration.cs",
+              "RelativeToolTip": "..\\IMS.infrastructure\\Entity_Configuration\\ProductInfo_Configuration.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAQwAsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T12:56:04.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Customer_Configuration.cs",
+              "DocumentMoniker": "D:\\DotNet\\IMS.infrastructure\\Entity_Configuration\\Customer_Configuration.cs",
+              "RelativeDocumentMoniker": "..\\IMS.infrastructure\\Entity_Configuration\\Customer_Configuration.cs",
+              "ToolTip": "D:\\DotNet\\IMS.infrastructure\\Entity_Configuration\\Customer_Configuration.cs",
+              "RelativeToolTip": "..\\IMS.infrastructure\\Entity_Configuration\\Customer_Configuration.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwCsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T12:43:53.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Category_Configuration.cs",
+              "DocumentMoniker": "D:\\DotNet\\IMS.infrastructure\\Entity_Configuration\\Category_Configuration.cs",
+              "RelativeDocumentMoniker": "..\\IMS.infrastructure\\Entity_Configuration\\Category_Configuration.cs",
+              "ToolTip": "D:\\DotNet\\IMS.infrastructure\\Entity_Configuration\\Category_Configuration.cs",
+              "RelativeToolTip": "..\\IMS.infrastructure\\Entity_Configuration\\Category_Configuration.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAQwBkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T12:08:48.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StoreConfiguration.cs",
+              "DocumentMoniker": "D:\\DotNet\\IMS.infrastructure\\Entity_Configuration\\StoreConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\IMS.infrastructure\\Entity_Configuration\\StoreConfiguration.cs",
+              "ToolTip": "D:\\DotNet\\IMS.infrastructure\\Entity_Configuration\\StoreConfiguration.cs",
+              "RelativeToolTip": "..\\IMS.infrastructure\\Entity_Configuration\\StoreConfiguration.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAiwCcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T12:08:18.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "TransationInfo.cs",
               "DocumentMoniker": "D:\\DotNet\\IMS.models\\Entity\\TransationInfo.cs",
               "RelativeDocumentMoniker": "..\\IMS.models\\Entity\\TransationInfo.cs",
               "ToolTip": "D:\\DotNet\\IMS.models\\Entity\\TransationInfo.cs",
               "RelativeToolTip": "..\\IMS.models\\Entity\\TransationInfo.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAUwCEAAAA4AAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowBIAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-16T13:13:49.733Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 21,
               "Title": "SupplierInfo.cs",
               "DocumentMoniker": "D:\\DotNet\\IMS.models\\Entity\\SupplierInfo.cs",
               "RelativeDocumentMoniker": "..\\IMS.models\\Entity\\SupplierInfo.cs",
               "ToolTip": "D:\\DotNet\\IMS.models\\Entity\\SupplierInfo.cs",
               "RelativeToolTip": "..\\IMS.models\\Entity\\SupplierInfo.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAywBcAAABSAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwA8AAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-16T13:12:53.083Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 26,
               "Title": "StockInfo.cs",
               "DocumentMoniker": "D:\\DotNet\\IMS.models\\Entity\\StockInfo.cs",
               "RelativeDocumentMoniker": "..\\IMS.models\\Entity\\StockInfo.cs",
               "ToolTip": "D:\\DotNet\\IMS.models\\Entity\\StockInfo.cs",
               "RelativeToolTip": "..\\IMS.models\\Entity\\StockInfo.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAzwBsAAAAHAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwA8AAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-16T13:07:49.96Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
               "Title": "ProductInvoiceInfo.cs",
               "DocumentMoniker": "D:\\DotNet\\IMS.models\\Entity\\ProductInvoiceInfo.cs",
               "RelativeDocumentMoniker": "..\\IMS.models\\Entity\\ProductInvoiceInfo.cs",
               "ToolTip": "D:\\DotNet\\IMS.models\\Entity\\ProductInvoiceInfo.cs",
               "RelativeToolTip": "..\\IMS.models\\Entity\\ProductInvoiceInfo.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAA4wAwAAAAFAAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAA8wBUAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-16T13:04:43.032Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 20,
               "Title": "UnitInfo.cs",
               "DocumentMoniker": "D:\\DotNet\\IMS.models\\Entity\\UnitInfo.cs",
               "RelativeDocumentMoniker": "..\\IMS.models\\Entity\\UnitInfo.cs",
               "ToolTip": "D:\\DotNet\\IMS.models\\Entity\\UnitInfo.cs",
               "RelativeToolTip": "..\\IMS.models\\Entity\\UnitInfo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBMAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T13:02:09.089Z"
+              "WhenOpened": "2024-05-16T13:02:09.089Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 24,
               "Title": "ProductInfo.cs",
               "DocumentMoniker": "D:\\DotNet\\IMS.models\\Entity\\ProductInfo.cs",
               "RelativeDocumentMoniker": "..\\IMS.models\\Entity\\ProductInfo.cs",
               "ToolTip": "D:\\DotNet\\IMS.models\\Entity\\ProductInfo.cs",
               "RelativeToolTip": "..\\IMS.models\\Entity\\ProductInfo.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAA/wBwAAABSAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAmwA0AAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-16T12:58:57.108Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 22,
               "Title": "RackInfo.cs",
               "DocumentMoniker": "D:\\DotNet\\IMS.models\\Entity\\RackInfo.cs",
               "RelativeDocumentMoniker": "..\\IMS.models\\Entity\\RackInfo.cs",
               "ToolTip": "D:\\DotNet\\IMS.models\\Entity\\RackInfo.cs",
               "RelativeToolTip": "..\\IMS.models\\Entity\\RackInfo.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAA1wA4AAAAqAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAwwBgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-16T12:58:46.455Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 25,
               "Title": "CustomerInfo.cs",
               "DocumentMoniker": "D:\\DotNet\\IMS.models\\Entity\\CustomerInfo.cs",
               "RelativeDocumentMoniker": "..\\IMS.models\\Entity\\CustomerInfo.cs",
               "ToolTip": "D:\\DotNet\\IMS.models\\Entity\\CustomerInfo.cs",
               "RelativeToolTip": "..\\IMS.models\\Entity\\CustomerInfo.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAYwBQAAABNAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-16T12:55:34.805Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "StoreInfo.cs",
               "DocumentMoniker": "D:\\DotNet\\IMS.models\\Entity\\StoreInfo.cs",
               "RelativeDocumentMoniker": "..\\IMS.models\\Entity\\StoreInfo.cs",
               "ToolTip": "D:\\DotNet\\IMS.models\\Entity\\StoreInfo.cs",
               "RelativeToolTip": "..\\IMS.models\\Entity\\StoreInfo.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAswAkAAAAaAAAA",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAswCUAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-16T12:25:05.699Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "productRateInfo.cs",
-              "DocumentMoniker": "D:\\DotNet\\IMS.models\\Entity\\productRateInfo.cs",
-              "RelativeDocumentMoniker": "..\\IMS.models\\Entity\\productRateInfo.cs",
-              "ToolTip": "D:\\DotNet\\IMS.models\\Entity\\productRateInfo.cs",
-              "RelativeToolTip": "..\\IMS.models\\Entity\\productRateInfo.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAuwAgAAAAgAAAA",
+              "DocumentIndex": 5,
+              "Title": "ProductRateInfo.cs",
+              "DocumentMoniker": "D:\\DotNet\\IMS.models\\Entity\\ProductRateInfo.cs",
+              "RelativeDocumentMoniker": "..\\IMS.models\\Entity\\ProductRateInfo.cs",
+              "ToolTip": "D:\\DotNet\\IMS.models\\Entity\\ProductRateInfo.cs",
+              "RelativeToolTip": "..\\IMS.models\\Entity\\ProductRateInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-16T12:23:37.113Z",
               "EditorCaption": ""

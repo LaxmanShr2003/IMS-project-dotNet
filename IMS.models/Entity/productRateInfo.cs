@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace IMS.models.Entity
 {
-    public class productRateInfo:BaseEntity
+    public class ProductRateInfo:BaseEntity
     {
         public int CategroyInfoId { get; set; }
         public int ProductInfoId { get; set; }
@@ -34,12 +34,12 @@ namespace IMS.models.Entity
 
         public virtual ICollection<StockInfo> StockInfos { get; set; }
         public virtual ICollection<ProductInvoiceInfo> ProductInvoices { get; set; }
-
+        public virtual ICollection<ProductInvoiceDetailInfo> ProductInvoiceDetailInfos { get; set; }
+        public virtual ICollection<TransationInfo> TransationInfos { get; set; }
         public virtual CategoryInfo CategoryInfo { get; set; }
         public virtual ProductInfo ProductInfo { get; set; }
         public virtual StoreInfo   StoreInfo { get; set; }
         public virtual SupplierInfo SupplierInfo { get; set; }
         public virtual RackInfo RackInfo { get; set; }
-
     }
 }

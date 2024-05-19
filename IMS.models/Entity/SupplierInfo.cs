@@ -21,6 +21,6 @@ namespace IMS.models.Entity
         public String ModifiedBy { get; set; }
 
         public virtual StoreInfo StoreInfo { get; set; }
-        public virtual ICollection<productRateInfo> ProductRateInfos { get; set; }
+        public virtual ICollection<ProductRateInfo> ProductRateInfos { get; set; }
     }
 }

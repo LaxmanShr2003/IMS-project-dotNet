@@ -37,22 +37,20 @@ namespace IMS.infrastructure.Entity_Configuration
                 .HasMaxLength(50)
                 .IsUnicode(true);
 
-            builder.Property(e => e.IsActive);
-          //  .HasDefaultValue(true);
+            builder.Property(e => e.IsActive)
+            .HasDefaultValue(true);
 
-            builder.Property(e => e.CreatedDate);
-            //   .HasDefaultValueSql("GETDATE()");
-
+            builder.Property(e => e.CreatedDate)
+                       .IsRequired()
+                       .HasDefaultValueSql("GETDATE()");
             builder.Property(e => e.CreatedBy)
                 .IsRequired()
                 .IsUnicode(true);
-
-            builder.Property(e => e.ModifiedDate);
-              //.HasColumnType("datetime");
+            builder.Property(e => e.ModifiedDate)
+                .HasColumnType("datetime");
 
             builder.Property(e => e.ModifiedBy)
-               // .IsRequired()
-                .IsUnicode(false);
+                .IsUnicode(true);
 
         }
     }
