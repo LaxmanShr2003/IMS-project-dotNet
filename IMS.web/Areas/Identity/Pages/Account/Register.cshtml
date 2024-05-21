@@ -40,6 +40,26 @@
                 </div>
             </div>
 
+            <div class="mb-3">
+                <select asp-for="Input.UserRoleId" class="form-control">
+                    <option selected disabled> -Choose- </option>
+                    <option value="ADMIN">ADMIN</option>
+                    <option value="COUNTER">COUNTER</option>
+                    <option value="STORE">STORE</option>
+                    <option value="PUBLIC">PUBLIC</option>
+                </select>
+                <label for="Input.UserRoleId"></label>
+                <span asp-validation-for="Input.UserRoleId" class="text-danger"></span>
+            </div>
+
+
+            <div class="mb-3">
+                <select asp-for="Input.StoreId" class="form-control" asp-items="@(new SelectList(Model.StoreInfos, "Id", "StoreName"))">
+                    <option value="null"> -Choose- </option>
+                </select>
+                <label for="Input.UserRoleId"></label>
+                <span asp-validation-for="Input.UserRoleId" class="text-danger"></span>
+            </div>
             <div class="form-floating mb-3">
                 <input asp-for="Input.Email" class="form-control" autocomplete="username" aria-required="true" placeholder="name@example.com" />
                 <label asp-for="Input.Email">Email</label>

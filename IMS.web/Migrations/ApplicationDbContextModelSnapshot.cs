@@ -239,6 +239,7 @@ namespace IMS.web.Migrations
                     b.HasBaseType("Microsoft.AspNetCore.Identity.IdentityUser");
 
                     b.Property<string>("Address")
+                        .IsRequired()
                         .HasMaxLength(250)
                         .HasColumnType("nvarchar(250)");
 
@@ -251,6 +252,7 @@ namespace IMS.web.Migrations
                         .HasDefaultValueSql("GETDATE()");
 
                     b.Property<string>("FirstName")
+                        .IsRequired()
                         .HasMaxLength(100)
                         .HasColumnType("nvarchar(100)");
 
@@ -263,6 +265,7 @@ namespace IMS.web.Migrations
                         .HasDefaultValue(true);
 
                     b.Property<string>("LastName")
+                        .IsRequired()
                         .HasMaxLength(100)
                         .HasColumnType("nvarchar(100)");
 
@@ -281,13 +284,14 @@ namespace IMS.web.Migrations
                         .HasColumnType("nvarchar(500)");
 
                     b.Property<int>("StoreId")
+                        .HasMaxLength(250)
                         .HasColumnType("int");
 
                     b.Property<DateTime>("UpdatedDate")
                         .HasColumnType("datetime2");
 
-                    b.Property<int>("UserRoleId")
-                        .HasColumnType("int");
+                    b.Property<string>("UserRoleId")
+                        .HasColumnType("nvarchar(max)");
 
                     b.HasDiscriminator().HasValue("ApplicationUser");
                 });

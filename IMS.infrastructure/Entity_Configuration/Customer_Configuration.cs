@@ -38,7 +38,8 @@ namespace IMS.infrastructure.Entity_Configuration
 
             builder.HasOne(e => e.StoreInfo)
             .WithMany(e => e.CustomerInfos)
-            .HasForeignKey(e => e.StoreInfoId);
+            .HasForeignKey(e => e.StoreInfoId)
+            .OnDelete(DeleteBehavior.Restrict);
 
             builder.Property(e => e.CreatedDate)
               .IsRequired()

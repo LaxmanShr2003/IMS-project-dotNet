@@ -19,7 +19,8 @@ namespace IMS.infrastructure.Entity_Configuration
 
             builder.HasOne(e => e.StoreInfo)
            .WithMany(e => e.RackInfos)
-           .HasForeignKey(e => e.StoreInfoId);
+           .HasForeignKey(e => e.StoreInfoId)
+           .OnDelete(DeleteBehavior.Restrict);
 
             builder.Property(e => e.RackName)
           .HasMaxLength(200)

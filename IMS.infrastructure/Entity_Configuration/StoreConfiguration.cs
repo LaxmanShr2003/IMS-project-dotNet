@@ -46,8 +46,8 @@ namespace IMS.infrastructure.Entity_Configuration
             builder.Property(e => e.CreatedBy)
                 .IsRequired()
                 .IsUnicode(true);
-            builder.Property(e => e.ModifiedDate)
-                .HasColumnType("datetime");
+            builder.Property(e => e.ModifiedDate);
+            //    .HasColumnType("datetime");
 
             builder.Property(e => e.ModifiedBy)
                 .IsUnicode(true);

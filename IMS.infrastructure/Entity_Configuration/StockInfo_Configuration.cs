@@ -21,15 +21,18 @@ namespace IMS.infrastructure.Entity_Configuration
 
             builder.HasOne(e => e.ProductRateInfo)
            .WithMany(e => e.StockInfos)
-           .HasForeignKey(e => e.ProductRateInfoId);
+           .HasForeignKey(e => e.ProductRateInfoId)
+           .OnDelete(DeleteBehavior.Restrict);
 
             builder.HasOne(e => e.CategoryInfo)
          .WithMany(e => e.StockInfos)
-         .HasForeignKey(e => e.CategoryInfoId);
+         .HasForeignKey(e => e.CategoryInfoId)
+         .OnDelete(DeleteBehavior.Restrict);
 
             builder.HasOne(e => e.StoreInfo)
          .WithMany(e => e.StockInfos)
-         .HasForeignKey(e => e.StoreInfoId);
+         .HasForeignKey(e => e.StoreInfoId)
+         .OnDelete(DeleteBehavior.Restrict);
 
             builder.Property(e => e.Quantity)
           .HasMaxLength(200)

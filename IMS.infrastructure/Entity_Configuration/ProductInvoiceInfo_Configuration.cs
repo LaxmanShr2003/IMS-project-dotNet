@@ -44,11 +44,13 @@ namespace IMS.infrastructure.Entity_Configuration
 
             builder.HasOne(e => e.CustomerInfo)
             .WithMany(pt => pt.ProductInvoiceInfos)
-            .HasForeignKey(e => e.CustomerInfoId);
+            .HasForeignKey(e => e.CustomerInfoId)
+            .OnDelete(DeleteBehavior.Restrict);
 
             builder.HasOne(e => e.StoreInfo)
            .WithMany(e => e.ProductInvoiceInfos)
-           .HasForeignKey(e => e.StoreinfoId);
+           .HasForeignKey(e => e.StoreinfoId)
+           .OnDelete(DeleteBehavior.Restrict);
 
 
             builder.Property(e => e.IsActive)

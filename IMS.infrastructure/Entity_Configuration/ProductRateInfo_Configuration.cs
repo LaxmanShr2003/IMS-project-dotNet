@@ -21,11 +21,13 @@ namespace IMS.infrastructure.Entity_Configuration
 
             builder.HasOne(e => e.StoreInfo)
            .WithMany(e => e.ProductRateInfos)
-           .HasForeignKey(e => e.StoreInfoId);
+           .HasForeignKey(e => e.StoreInfoId)
+           .OnDelete(DeleteBehavior.Restrict);
 
             builder.HasOne(e => e.CategoryInfo)
         .WithMany(e => e.ProductRateInfos)
-        .HasForeignKey(e => e.CategroyInfoId);
+        .HasForeignKey(e => e.CategroyInfoId)
+        .OnDelete(DeleteBehavior.Restrict);
 
             builder.Property(e => e.CostPrice)
        .HasColumnType("float");
@@ -55,12 +57,14 @@ namespace IMS.infrastructure.Entity_Configuration
 
             builder.HasOne(e => e.SupplierInfo)
           .WithMany(e => e.ProductRateInfos)
-          .HasForeignKey(e => e.SupplierInfoId);
+          .HasForeignKey(e => e.SupplierInfoId)
+          .OnDelete(DeleteBehavior.Restrict);
 
 
             builder.HasOne(e => e.RackInfo)
           .WithMany(e => e.ProductRateInfos)
-          .HasForeignKey(e => e.RackInfoId);
+          .HasForeignKey(e => e.RackInfoId)
+          .OnDelete(DeleteBehavior.Restrict);
 
 
             builder.Property(e => e.IsActive)

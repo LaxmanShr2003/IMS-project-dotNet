@@ -14,7 +14,7 @@ namespace IMS.web.Models
         public int StoreId { get; set; }
         public string Gender { get; set; }
         public string Address { get; set; }
-        public int UserRoleId { get; set; }
+        public string UserRoleId { get; set; }
         public bool IsActive { get; set; }
         public string ProfilePicture {  get; set; }
         public string ProfilePictureUrl { get; set; }

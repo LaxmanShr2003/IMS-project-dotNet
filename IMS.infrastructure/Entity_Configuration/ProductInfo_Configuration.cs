@@ -37,15 +37,18 @@ namespace IMS.infrastructure.Entity_Configuration
 
             builder.HasOne(e => e.CategoryInfo)
          .WithMany(e => e.ProductInfos)
-         .HasForeignKey(e => e.CategoryInfoId);
+         .HasForeignKey(e => e.CategoryInfoId)
+         .OnDelete(DeleteBehavior.Restrict);
 
             builder.HasOne(e => e.UnitInfo)
       .WithMany(e => e.ProductInfos)
-      .HasForeignKey(e => e.UnitInfoId);
+      .HasForeignKey(e => e.UnitInfoId)
+      .OnDelete(DeleteBehavior.Restrict);
 
             builder.HasOne(e => e.StoreInfo)
       .WithMany(e => e.ProductInfos)
-      .HasForeignKey(e => e.StoreInfoId);
+      .HasForeignKey(e => e.StoreInfoId)
+      .OnDelete(DeleteBehavior.Restrict);
 
             builder.HasMany(e => e.StockInfos)
            .WithOne(e => e.ProductInfo)

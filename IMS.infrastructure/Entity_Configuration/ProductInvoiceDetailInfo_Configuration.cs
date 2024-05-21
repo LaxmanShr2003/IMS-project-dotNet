@@ -26,11 +26,13 @@ namespace IMS.infrastructure.Entity_Configuration
 
             builder.HasOne(e => e.ProductInvoiceInfo)
 .WithMany(e => e.ProductInvoiceDetailInfos)
-.HasForeignKey(e => e.ProductInvoiceInfoId);
+.HasForeignKey(e => e.ProductInvoiceInfoId)
+.OnDelete(DeleteBehavior.Restrict);
 
             builder.HasOne(e => e.ProductRateInfo)
 .WithMany(e => e.ProductInvoiceDetailInfos)
-.HasForeignKey(e => e.ProductRateInfoId);
+.HasForeignKey(e => e.ProductRateInfoId)
+.OnDelete(DeleteBehavior.Restrict);
 
             builder.Property(e => e.CreatedDate)
                 .IsRequired()
