@@ -1,0 +1,40 @@
+﻿@model IMS.models.Entity.UnitInfo
+
+@if (Model.Id > 0)
+{
+    <h1>Edit Store Info</h1>
+}
+else
+{
+    <h2>Create Store Info</h2>
+}
+
+<form asp-action="AddEdit">
+    <div class="form-group">
+        <label asp-for="UnitName" class="control-label" required"></label>
+        <input asp-for="UnitName" class="form-control" />
+        <span asp-validation-for="UnitName" class="text-danger"></span>
+    </div>
+
+
+    <div class="form-group">
+        <label asp-for="IsActive" class="control-label">Is Active</label>
+        <input class="form-check-input" type="checkbox" asp-for="IsActive" />
+        <span asp-validation-for="IsActive" class="text-danger"></span>
+    </div>
+
+    < div class="row">
+        <div class="col-6">
+
+            <a class="btn mt-2 btn-secondary" asp-action="Index">Back to List</a>
+
+        </div>
+
+    <div class="form-group mt-5">
+        <button type="submit" class="btn btn-primary">@((Model.Id > 0) ? "Update" : "Create")</button>
+    </div>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

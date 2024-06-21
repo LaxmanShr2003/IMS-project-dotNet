@@ -1,4 +1,5 @@
 ﻿using IMS.infrastructure.Entity_Configuration;
+using IMS.models.ViewModels;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -14,6 +15,8 @@ namespace IMS.infrastructure
         {
             
         }
+
+        public DbSet<CustomerReportViewModel> CustomerReportViewModels { get; set; }
         protected override void OnModelCreating(ModelBuilder Builder)
         {
             Builder.ApplyConfiguration(new StoreConfiguration());
@@ -30,6 +33,9 @@ namespace IMS.infrastructure
             Builder.ApplyConfiguration(new TransationInfo_Configuration());
             Builder.ApplyConfiguration(new ProductInvoiceInfo_Configuration());
             Builder.ApplyConfiguration(new ProductInvoiceDetailInfo_Configuration());
+
+            Builder.Entity<CustomerReportViewModel>().HasNoKey();
+            Builder.Entity<ReportDetailViewModel>().HasNoKey();
         }
     }
 

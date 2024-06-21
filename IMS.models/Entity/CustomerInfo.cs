@@ -18,7 +18,6 @@ namespace IMS.models.Entity
         
         public DateTime CreatedDate { get; set; }
         public string CreatedBy { get; set; }
-
         public virtual StoreInfo StoreInfo {  get; set; }
         public virtual ICollection<ProductInvoiceInfo> ProductInvoiceInfos { get; set; }
 

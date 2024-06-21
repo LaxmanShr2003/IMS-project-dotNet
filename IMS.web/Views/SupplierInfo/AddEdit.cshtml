@@ -1,0 +1,100 @@
+﻿@model IMS.models.Entity.SupplierInfo
+
+
+@{
+    ViewData["Title"] = "Customer Management"; //Browser tab title
+
+    <!-- Display Content Box Title of the page ADD/EDIT based on model value-->
+    if (Model.Id > 0)
+    {
+        ViewData["ContentBoxTitle"] = "Update Store";
+    }
+    else
+    {
+        ViewData["ContentBoxTitle"] = "Add Customer";
+    }
+}
+
+
+
+
+@if (Model.Id > 0)
+{
+    <div>
+        <p>Update</p>
+    </div>
+}
+else
+{
+    <div>
+        <p>Create</p>
+    </div>
+}
+
+<form method="post" asp-action="AddEdit">
+    <input asp-for="Id" hidden />
+    <div class="row">
+        <div class="col-6">
+            <div class="form-group">
+                <label class="form-label" asp-for="SupplierName"></label>
+                <input class="form-control" asp-for="SupplierName" />
+                <span class="text-danger" asp-validation-for="SupplierName"></span>
+            </div>
+        </div>
+        <div class="form-group">
+            <label asp-for="Address" class="control-label"></label>
+            <input asp-for="Address" class="form-control" />
+            <span asp-validation-for="Address" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="PhoneNumber" class="control-label"></label>
+            <input asp-for="PhoneNumber" class="form-control" />
+            <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+        </div>
+
+
+        <div class="form-group">
+            <label asp-for="ContactPerson" class="control-label"></label>
+            <input asp-for="ContactPerson" class="form-control" />
+            <span asp-validation-for="ContactPerson" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Email" class="control-label"></label>
+            <input asp-for="Email" class="form-control" />
+            <span asp-validation-for="Email" class="text-danger"></span>
+        </div>
+
+    </div>
+
+
+
+    <div class="row">
+        <div class="col-6">
+
+            <a class="btn mt-2 btn-secondary" asp-action="Index">Back to List</a>
+
+        </div>
+
+        @if (Model.Id > 0)
+        {
+            <div class="col-6">
+                <button class="btn mt-2 btn-primary  float-end" type="submit">Update</button>
+            </div>
+        }
+        else
+        {
+            <div class="col-6">
+                <button class="btn mt-2 btn-primary  float-end" type="submit">Create</button>
+            </div>
+        }
+
+    </div>
+</form>
+
+
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

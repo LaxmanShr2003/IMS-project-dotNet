@@ -31,11 +31,13 @@ namespace IMS.web.Migrations.ImsDb
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<string>("CategoryDescription")
+                        .IsRequired()
                         .HasMaxLength(500)
                         .IsUnicode(true)
                         .HasColumnType("nvarchar(500)");
 
                     b.Property<string>("CategoryName")
+                        .IsRequired()
                         .HasMaxLength(200)
                         .IsUnicode(true)
                         .HasColumnType("nvarchar(200)");
@@ -162,11 +164,13 @@ namespace IMS.web.Migrations.ImsDb
                         .HasColumnType("datetime");
 
                     b.Property<string>("ProductDescription")
+                        .IsRequired()
                         .HasMaxLength(500)
                         .IsUnicode(true)
                         .HasColumnType("nvarchar(500)");
 
                     b.Property<string>("ProductName")
+                        .IsRequired()
                         .HasMaxLength(200)
                         .IsUnicode(true)
                         .HasColumnType("nvarchar(200)");
@@ -326,6 +330,7 @@ namespace IMS.web.Migrations.ImsDb
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<string>("BatchNo")
+                        .IsRequired()
                         .HasMaxLength(200)
                         .IsUnicode(true)
                         .HasColumnType("nvarchar(200)");
@@ -438,6 +443,7 @@ namespace IMS.web.Migrations.ImsDb
                         .HasColumnType("datetime");
 
                     b.Property<string>("RackName")
+                        .IsRequired()
                         .HasMaxLength(200)
                         .IsUnicode(true)
                         .HasColumnType("nvarchar(200)");
@@ -586,11 +592,13 @@ namespace IMS.web.Migrations.ImsDb
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<string>("Address")
+                        .IsRequired()
                         .HasMaxLength(200)
                         .IsUnicode(true)
                         .HasColumnType("nvarchar(200)");
 
                     b.Property<string>("ContactPerson")
+                        .IsRequired()
                         .HasMaxLength(200)
                         .IsUnicode(true)
                         .HasColumnType("nvarchar(200)");
@@ -606,6 +614,7 @@ namespace IMS.web.Migrations.ImsDb
                         .HasDefaultValueSql("GETDATE()");
 
                     b.Property<string>("Email")
+                        .IsRequired()
                         .HasMaxLength(200)
                         .IsUnicode(true)
                         .HasColumnType("nvarchar(200)");
@@ -623,6 +632,7 @@ namespace IMS.web.Migrations.ImsDb
                         .HasColumnType("datetime");
 
                     b.Property<string>("PhoneNumber")
+                        .IsRequired()
                         .HasMaxLength(200)
                         .IsUnicode(true)
                         .HasColumnType("nvarchar(200)");
@@ -631,6 +641,7 @@ namespace IMS.web.Migrations.ImsDb
                         .HasColumnType("int");
 
                     b.Property<string>("SupplierName")
+                        .IsRequired()
                         .HasMaxLength(200)
                         .IsUnicode(true)
                         .HasColumnType("nvarchar(200)");
@@ -747,6 +758,7 @@ namespace IMS.web.Migrations.ImsDb
                         .HasColumnType("datetime");
 
                     b.Property<string>("UnitName")
+                        .IsRequired()
                         .HasMaxLength(200)
                         .IsUnicode(true)
                         .HasColumnType("nvarchar(200)");

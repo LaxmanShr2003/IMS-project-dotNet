@@ -1,57 +1,73 @@
-﻿using IMS.infrastructure;
-using IMS.infrastructure.IRepository;
+﻿using IMS.infrastructure.IRepository;
 using IMS.models.Entity;
 using IMS.web.Models;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
 
 namespace IMS.web.Controllers
 {
     public class CategoryInfoController : Controller
     {
+
         private readonly ICrudService<CategoryInfo> _categoryInfo;
         private readonly ICrudService<StoreInfo> _storeInfo;
         private readonly UserManager<ApplicationUser> _userManager;
-        public CategoryInfoController(ICrudService<CategoryInfo> categoryInfo, ICrudService<StoreInfo> storeInfo,
-            UserManager<ApplicationUser> userManager)
+
+        public CategoryInfoController(ICrudService<CategoryInfo> categoryInfo, UserManager<ApplicationUser> userManager, 
+            ICrudService<StoreInfo> storeInfo)
         {
             _categoryInfo = categoryInfo;
-            _storeInfo = storeInfo;
             _userManager = userManager;
+            _storeInfo = storeInfo;
         }
         public async Task<IActionResult> Index()
         {
-
             var userId = _userManager.GetUserId(HttpContext.User);
             var user = await _userManager.FindByIdAsync(userId);
-            var storeInfo = await _storeInfo.GetAsync(user.StoreId);
-            var categoryInfos = await _categoryInfo.GetAllAsync(p => p.StoreInfoId == storeInfo.Id);
-
-            return View(categoryInfos);
+            var categoryInfo = await _categoryInfo.GetAllAsync(e =>e.StoreInfoId==user.StoreId);
+            return View(categoryInfo);
         }
 
-        [HttpPost]
-        public async Task<IActionResult> AddEdit(CategoryInfo categoryInfo)
+        [HttpGet]
+        public async Task<IActionResult> AddEdit(int id)
         {
+            CategoryInfo categoryInfo = new CategoryInfo();
+            categoryInfo.IsActive = true;
+            
+          
+            if (id > 0)
+            {
+                categoryInfo = await _categoryInfo.GetAsync(id);
+            }
+            return View(categoryInfo);
+        }
+    
+
+        [HttpPost]
+        public async Task<IActionResult> AddEdit(CategoryInfo categoryinfo)
+        {
+
             if (ModelState.IsValid)
             {
                 try
                 {
                     var userId = _userManager.GetUserId(HttpContext.User);
-                    if (categoryInfo.Id == 0)
+                    var user = await _userManager.FindByIdAsync(userId);
+                    if (categoryinfo.Id == 0)
                     {
-                        categoryInfo.CreatedDate = DateTime.Now;
-                        categoryInfo.CreatedBy = userId;
-                        await _categoryInfo.InsertAsync(categoryInfo);
+                        categoryinfo.CreatedDate = DateTime.Now;
+                        categoryinfo.CreatedBy = userId;
+                        categoryinfo.StoreInfoId = user.StoreId;
+                        await _categoryInfo.InsertAsync(categoryinfo);
+
                         TempData["success"] = "Data Added Successfully";
                     }
                     else
                     {
-                        var OrgCategoryInfo = await _categoryInfo.GetAsync(categoryInfo.Id);
-                        OrgCategoryInfo.CategoryName = categoryInfo.CategoryName;
-                        OrgCategoryInfo.CategoryDescription = categoryInfo.CategoryDescription;
-                        OrgCategoryInfo.IsActive = categoryInfo.IsActive;
+                        var OrgCategoryInfo = await _categoryInfo.GetAsync(categoryinfo.Id);
+                        OrgCategoryInfo.CategoryName = categoryinfo.CategoryName;
+                        OrgCategoryInfo.CategoryDescription = categoryinfo.CategoryDescription;
+                        OrgCategoryInfo.IsActive = categoryinfo.IsActive;
                         OrgCategoryInfo.ModifiedDate = DateTime.Now;
                         OrgCategoryInfo.ModifiedBy = userId;
                         await _categoryInfo.UpdateAsync(OrgCategoryInfo);
@@ -70,15 +86,5 @@ namespace IMS.web.Controllers
             TempData["error"] = "Please Input Valid Data";
             return RedirectToAction(nameof(AddEdit));
         }
-        [HttpGet]
-        public async Task<IActionResult> Remove(int id)
-        {
-
-            var categoryInfo = await _categoryInfo.GetAsync(id);
-            _categoryInfo.Delete(categoryInfo);
-            TempData["success"] = "Data Deleted Successfully";
-            return RedirectToAction(nameof(Index));
-        }
-
-        
+    }
 }

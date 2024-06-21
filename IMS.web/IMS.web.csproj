@@ -29,4 +29,8 @@
     <ProjectReference Include="..\IMS.utility\IMS.utility.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\ProductImage\" />
+  </ItemGroup>
+
 </Project>

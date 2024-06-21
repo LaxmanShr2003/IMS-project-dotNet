@@ -1,55 +1,93 @@
 ﻿@model IMS.models.Entity.CategoryInfo
 
+
+@{
+    ViewData["Title"] = "Category Management"; //Browser tab title
+
+    <!-- Display Content Box Title of the page ADD/EDIT based on model value-->
+    if (Model.Id > 0)
+    {
+        ViewData["ContentBoxTitle"] = "Update Store";
+    }
+    else
+    {
+        ViewData["ContentBoxTitle"] = "Add Category";
+    }
+}
+
+
+
+
 @if (Model.Id > 0)
 {
-    <h1>Edit Category Info</h1>
+    <div>
+        <p>Update</p>
+    </div>
 }
 else
 {
-    <h2>Create Category Info</h2>
+    <div>
+        <p>Create</p>
+    </div>
 }
 
-<form asp-action="AddEdit">
-    <div class="form-group">
-        <label asp-for="StoreName" class="control-label" required"></label>
-        <input asp-for="StoreName" class="form-control" />
-        <span asp-validation-for="StoreName" class="text-danger"></span>
+<form method="post" asp-action="AddEdit">
+    <input asp-for="Id" hidden />
+    <div class="row">
+        <div class="col-6">
+            <div class="form-group">
+                <label class="form-label" asp-for="CategoryName"></label>
+                <input class="form-control" asp-for="CategoryName" />
+                <span class="text-danger" asp-validation-for="CategoryName"></span>
+            </div>
+        </div>
+        <div class="col-6">
+            <div class="form-group">
+                <label class="form-label" asp-for="CategoryDescription"></label>
+                <input class="form-control" asp-for="CategoryDescription" />
+                <span asp-validation-for="CategoryDescription"></span>
+            </div>
+        </div>
     </div>
 
-    <div class="form-group">
-        <label asp-for="Address" class="control-label"></label>
-        <input asp-for="Address" class="form-control" />
-        <span asp-validation-for="Address" class="text-danger"></span>
+    <div class="row">
+
+        <div class="col-6">
+            <div class="form-group">
+                <label class="check-box">
+                    <input type="checkbox" asp-for="IsActive">
+                    <span class="checked1"></span>
+                    <p class="terms" for="">Is Active</p>
+                </label>
+                <span asp-validation-for="IsActive" class="text-danger"></span>
+            </div>
+        </div>
     </div>
 
-    <div class="form-group">
-        <label asp-for="PhoneNumber" class="control-label"></label>
-        <input asp-for="PhoneNumber" class="form-control" />
-        <span asp-validation-for="PhoneNumber" class="text-danger"></span>
-    </div>
+    <div class="row">
+        <div class="col-6">
 
-    <div class="form-group">
-        <label asp-for="RegistrationNumber" class="control-label"></label>
-        <input asp-for="RegistrationNumber" class="form-control" />
-        <span asp-validation-for="RegistrationNumber" class="text-danger"></span>
-    </div>
+            <a class="btn mt-2 btn-secondary" asp-action="Index">Back to List</a>
 
-    <div class="form-group">
-        <label asp-for="PanNo" class="control-label"></label>
-        <input asp-for="PanNo" class="form-control" />
-        <span asp-validation-for="PanNo" class="text-danger"></span>
-    </div>
+        </div>
 
-    <div class="form-group">
-        <label asp-for="IsActive" class="control-label">Is Active</label>
-        <input class="form-check-input" type="checkbox" asp-for="IsActive" />
-        <span asp-validation-for="IsActive" class="text-danger"></span>
-    </div>
+        @if (Model.Id > 0)
+        {
+            <div class="col-6">
+                <button class="btn mt-2 btn-primary  float-end" type="submit">Update</button>
+            </div>
+        }
+        else
+        {
+            <div class="col-6">
+                <button class="btn mt-2 btn-primary  float-end" type="submit">Create</button>
+            </div>
+        }
 
-    <div class="form-group mt-5">
-        <button type="submit" class="btn btn-primary">@((Model.Id > 0) ? "Update" : "Create")</button>
     </div>
 </form>
+
+
 
 @section Scripts {
     <partial name="_ValidationScriptsPartial" />

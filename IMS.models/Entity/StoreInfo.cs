@@ -10,7 +10,6 @@ namespace IMS.models.Entity
     public class StoreInfo : BaseEntity
     {
         [Required]
-        
         public string StoreName { get; set; }
         [Required]
         public string Address { get; set; }

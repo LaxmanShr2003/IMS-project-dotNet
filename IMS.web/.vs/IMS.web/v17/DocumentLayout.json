@@ -7,113 +7,105 @@
       "RelativeMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|d:\\dotnet\\ims.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|d:\\dotnet\\ims.web\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|d:\\dotnet\\ims.web\\views\\categoryinfo\\addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|solutionrelative:views\\categoryinfo\\addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FA08871C-CC82-4DDE-A197-BD6DA262DFC3}|..\\IMS.models\\IMS.models.csproj|d:\\dotnet\\ims.models\\viewmodels\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|d:\\dotnet\\ims.web\\views\\categoryinfo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|solutionrelative:views\\categoryinfo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FA08871C-CC82-4DDE-A197-BD6DA262DFC3}|..\\IMS.models\\IMS.models.csproj|d:\\dotnet\\ims.models\\viewmodels\\dashboardlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|d:\\dotnet\\ims.web\\views\\storeinfo\\addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|solutionrelative:views\\storeinfo\\addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4E9CBBCA-5D76-4F0A-883C-98A3DBFF5C12}|..\\IMS.infrastructure\\IMS.infrastructure.csproj|d:\\dotnet\\ims.infrastructure\\imsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|d:\\dotnet\\ims.web\\controllers\\categoryinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|solutionrelative:controllers\\categoryinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|d:\\dotnet\\ims.web\\views\\transactioninfo\\transaction.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|solutionrelative:views\\transactioninfo\\transaction.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|d:\\dotnet\\ims.web\\controllers\\transactioninfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|solutionrelative:controllers\\transactioninfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|d:\\dotnet\\ims.web\\controllers\\productinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|solutionrelative:controllers\\productinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|d:\\dotnet\\ims.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|d:\\dotnet\\ims.web\\views\\transactioninfo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|solutionrelative:views\\transactioninfo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|d:\\dotnet\\ims.web\\controllers\\storeinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|solutionrelative:controllers\\storeinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E9CBBCA-5D76-4F0A-883C-98A3DBFF5C12}|..\\IMS.infrastructure\\IMS.infrastructure.csproj|d:\\dotnet\\ims.infrastructure\\irepository\\icrudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|d:\\dotnet\\ims.web\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|d:\\dotnet\\ims.web\\migrations\\imsdb\\20240508130227_storeupdated.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|solutionrelative:migrations\\imsdb\\20240508130227_storeupdated.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|d:\\dotnet\\ims.web\\migrations\\imsdb\\20240505055150_init-table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|solutionrelative:migrations\\imsdb\\20240505055150_init-table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|d:\\dotnet\\ims.web\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|solutionrelative:migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|d:\\dotnet\\ims.web\\migrations\\20240521114852_updated-userroleid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|solutionrelative:migrations\\20240521114852_updated-userroleid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E9CBBCA-5D76-4F0A-883C-98A3DBFF5C12}|..\\IMS.infrastructure\\IMS.infrastructure.csproj|d:\\dotnet\\ims.infrastructure\\entity_configuration\\storeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|d:\\dotnet\\ims.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA08871C-CC82-4DDE-A197-BD6DA262DFC3}|..\\IMS.models\\IMS.models.csproj|d:\\dotnet\\ims.models\\ims.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|d:\\dotnet\\ims.web\\ims.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|solutionrelative:ims.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA08871C-CC82-4DDE-A197-BD6DA262DFC3}|..\\IMS.models\\IMS.models.csproj|d:\\dotnet\\ims.models\\enum\\roleenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|d:\\dotnet\\ims.web\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA08871C-CC82-4DDE-A197-BD6DA262DFC3}|..\\IMS.models\\IMS.models.csproj|d:\\dotnet\\ims.models\\entity\\storeinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|d:\\dotnet\\ims.web\\data\\seedingdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|solutionrelative:data\\seedingdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|d:\\dotnet\\ims.web\\views\\storeinfo\\addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|solutionrelative:views\\storeinfo\\addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|d:\\dotnet\\ims.web\\views\\storeinfo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|solutionrelative:views\\storeinfo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|d:\\dotnet\\ims.web\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|solutionrelative:models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|d:\\dotnet\\ims.web\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|solutionrelative:views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|d:\\dotnet\\ims.web\\areas\\identity\\pages\\account\\registerconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|solutionrelative:areas\\identity\\pages\\account\\registerconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|d:\\dotnet\\ims.web\\views\\productinfo\\addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|solutionrelative:views\\productinfo\\addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|d:\\dotnet\\ims.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|d:\\dotnet\\ims.web\\controllers\\productrateinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|solutionrelative:controllers\\productrateinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|d:\\dotnet\\ims.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{FA08871C-CC82-4DDE-A197-BD6DA262DFC3}|..\\IMS.models\\IMS.models.csproj|d:\\dotnet\\ims.models\\viewmodels\\transationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E9CBBCA-5D76-4F0A-883C-98A3DBFF5C12}|..\\IMS.infrastructure\\IMS.infrastructure.csproj|d:\\dotnet\\ims.infrastructure\\entity_configuration\\category_configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E9CBBCA-5D76-4F0A-883C-98A3DBFF5C12}|..\\IMS.infrastructure\\IMS.infrastructure.csproj|d:\\dotnet\\ims.infrastructure\\irepository\\icrudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|d:\\dotnet\\ims.web\\views\\shared\\notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|solutionrelative:views\\shared\\notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4E9CBBCA-5D76-4F0A-883C-98A3DBFF5C12}|..\\IMS.infrastructure\\IMS.infrastructure.csproj|d:\\dotnet\\ims.infrastructure\\repository\\crud\\crudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|d:\\dotnet\\ims.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|d:\\dotnet\\ims.web\\views\\productrateinfo\\addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|solutionrelative:views\\productrateinfo\\addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA08871C-CC82-4DDE-A197-BD6DA262DFC3}|..\\IMS.models\\IMS.models.csproj|d:\\dotnet\\ims.models\\entity\\categoryinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|d:\\dotnet\\ims.web\\controllers\\rackinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|solutionrelative:controllers\\rackinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|d:\\dotnet\\ims.web\\controllers\\categoryinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|solutionrelative:controllers\\categoryinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|d:\\dotnet\\ims.web\\views\\transactioninfo\\printreport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|solutionrelative:views\\transactioninfo\\printreport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|d:\\dotnet\\ims.web\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|d:\\dotnet\\ims.web\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|solutionrelative:views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|d:\\dotnet\\ims.web\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|solutionrelative:controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA08871C-CC82-4DDE-A197-BD6DA262DFC3}|..\\IMS.models\\IMS.models.csproj|d:\\dotnet\\ims.models\\entity\\productrateinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|d:\\dotnet\\ims.web\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A7B3250-A086-4AAB-8219-BDF0A8775384}|IMS.web.csproj|solutionrelative:views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -123,7 +115,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 17,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -131,196 +123,102 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AddEdit.cshtml",
-              "DocumentMoniker": "D:\\DotNet\\IMS.web\\Views\\StoreInfo\\AddEdit.cshtml",
-              "RelativeDocumentMoniker": "Views\\StoreInfo\\AddEdit.cshtml",
-              "ToolTip": "D:\\DotNet\\IMS.web\\Views\\StoreInfo\\AddEdit.cshtml",
-              "RelativeToolTip": "Views\\StoreInfo\\AddEdit.cshtml",
-              "ViewState": "AQIAACAAAAAAAAAAAAAAADcAAAABAAAA",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\DotNet\\IMS.web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "D:\\DotNet\\IMS.web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-21T13:17:02.284Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AddEdit.cshtml",
-              "DocumentMoniker": "D:\\DotNet\\IMS.web\\Views\\CategoryInfo\\AddEdit.cshtml",
-              "RelativeDocumentMoniker": "Views\\CategoryInfo\\AddEdit.cshtml",
-              "ToolTip": "D:\\DotNet\\IMS.web\\Views\\CategoryInfo\\AddEdit.cshtml",
-              "RelativeToolTip": "Views\\CategoryInfo\\AddEdit.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAABGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-21T13:16:52.371Z",
+              "WhenOpened": "2024-06-20T12:56:46.373Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ICrudService.cs",
-              "DocumentMoniker": "D:\\DotNet\\IMS.infrastructure\\IRepository\\ICrudService.cs",
-              "RelativeDocumentMoniker": "..\\IMS.infrastructure\\IRepository\\ICrudService.cs",
-              "ToolTip": "D:\\DotNet\\IMS.infrastructure\\IRepository\\ICrudService.cs",
-              "RelativeToolTip": "..\\IMS.infrastructure\\IRepository\\ICrudService.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAA9wB0AAAAQAAAA",
+              "DocumentIndex": 2,
+              "Title": "DashboardViewModel.cs",
+              "DocumentMoniker": "D:\\DotNet\\IMS.models\\ViewModels\\DashboardViewModel.cs",
+              "RelativeDocumentMoniker": "..\\IMS.models\\ViewModels\\DashboardViewModel.cs",
+              "ToolTip": "D:\\DotNet\\IMS.models\\ViewModels\\DashboardViewModel.cs",
+              "RelativeToolTip": "..\\IMS.models\\ViewModels\\DashboardViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T13:12:00.787Z"
+              "WhenOpened": "2024-06-20T10:08:33.6Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "20240508130227_storeupdated.Designer.cs",
-              "DocumentMoniker": "D:\\DotNet\\IMS.web\\Migrations\\ImsDb\\20240508130227_storeupdated.Designer.cs",
-              "RelativeDocumentMoniker": "Migrations\\ImsDb\\20240508130227_storeupdated.Designer.cs",
-              "ToolTip": "D:\\DotNet\\IMS.web\\Migrations\\ImsDb\\20240508130227_storeupdated.Designer.cs",
-              "RelativeToolTip": "Migrations\\ImsDb\\20240508130227_storeupdated.Designer.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAUwBMAAAAJAAAA",
+              "DocumentIndex": 4,
+              "Title": "ImsDbContext.cs",
+              "DocumentMoniker": "D:\\DotNet\\IMS.infrastructure\\ImsDbContext.cs",
+              "RelativeDocumentMoniker": "..\\IMS.infrastructure\\ImsDbContext.cs",
+              "ToolTip": "D:\\DotNet\\IMS.infrastructure\\ImsDbContext.cs",
+              "RelativeToolTip": "..\\IMS.infrastructure\\ImsDbContext.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwCQAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T12:41:27.174Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "20240505055150_init-table.cs",
-              "DocumentMoniker": "D:\\DotNet\\IMS.web\\Migrations\\ImsDb\\20240505055150_init-table.cs",
-              "RelativeDocumentMoniker": "Migrations\\ImsDb\\20240505055150_init-table.cs",
-              "ToolTip": "D:\\DotNet\\IMS.web\\Migrations\\ImsDb\\20240505055150_init-table.cs",
-              "RelativeToolTip": "Migrations\\ImsDb\\20240505055150_init-table.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T12:41:17.499Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ApplicationDbContextModelSnapshot.cs",
-              "DocumentMoniker": "D:\\DotNet\\IMS.web\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ToolTip": "D:\\DotNet\\IMS.web\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeToolTip": "Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ViewState": "AQIAAKYAAAAAAAAAAAAQwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T12:38:22.403Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "StoreConfiguration.cs",
-              "DocumentMoniker": "D:\\DotNet\\IMS.infrastructure\\Entity_Configuration\\StoreConfiguration.cs",
-              "RelativeDocumentMoniker": "..\\IMS.infrastructure\\Entity_Configuration\\StoreConfiguration.cs",
-              "ToolTip": "D:\\DotNet\\IMS.infrastructure\\Entity_Configuration\\StoreConfiguration.cs",
-              "RelativeToolTip": "..\\IMS.infrastructure\\Entity_Configuration\\StoreConfiguration.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAzwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T12:37:45.403Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "IMS.models.csproj",
-              "DocumentMoniker": "D:\\DotNet\\IMS.models\\IMS.models.csproj",
-              "RelativeDocumentMoniker": "..\\IMS.models\\IMS.models.csproj",
-              "ToolTip": "D:\\DotNet\\IMS.models\\IMS.models.csproj",
-              "RelativeToolTip": "..\\IMS.models\\IMS.models.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-21T12:35:28.996Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "IMS.web.csproj",
-              "DocumentMoniker": "D:\\DotNet\\IMS.web\\IMS.web.csproj",
-              "RelativeDocumentMoniker": "IMS.web.csproj",
-              "ToolTip": "D:\\DotNet\\IMS.web\\IMS.web.csproj",
-              "RelativeToolTip": "IMS.web.csproj",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-21T12:35:12.142Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "RoleEnum.cs",
-              "DocumentMoniker": "D:\\DotNet\\IMS.models\\Enum\\RoleEnum.cs",
-              "RelativeDocumentMoniker": "..\\IMS.models\\Enum\\RoleEnum.cs",
-              "ToolTip": "D:\\DotNet\\IMS.models\\Enum\\RoleEnum.cs",
-              "RelativeToolTip": "..\\IMS.models\\Enum\\RoleEnum.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T12:31:51.145Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "StoreInfo.cs",
-              "DocumentMoniker": "D:\\DotNet\\IMS.models\\Entity\\StoreInfo.cs",
-              "RelativeDocumentMoniker": "..\\IMS.models\\Entity\\StoreInfo.cs",
-              "ToolTip": "D:\\DotNet\\IMS.models\\Entity\\StoreInfo.cs",
-              "RelativeToolTip": "..\\IMS.models\\Entity\\StoreInfo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T12:10:25.393Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "SeedingData.cs",
-              "DocumentMoniker": "D:\\DotNet\\IMS.web\\Data\\SeedingData.cs",
-              "RelativeDocumentMoniker": "Data\\SeedingData.cs",
-              "ToolTip": "D:\\DotNet\\IMS.web\\Data\\SeedingData.cs",
-              "RelativeToolTip": "Data\\SeedingData.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T12:08:30.891Z"
+              "WhenOpened": "2024-06-20T09:03:15.183Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "20240521114852_Updated-UserRoleId.cs",
-              "DocumentMoniker": "D:\\DotNet\\IMS.web\\Migrations\\20240521114852_Updated-UserRoleId.cs",
-              "RelativeDocumentMoniker": "Migrations\\20240521114852_Updated-UserRoleId.cs",
-              "ToolTip": "D:\\DotNet\\IMS.web\\Migrations\\20240521114852_Updated-UserRoleId.cs",
-              "RelativeToolTip": "Migrations\\20240521114852_Updated-UserRoleId.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T11:48:52.876Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\DotNet\\IMS.web\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "D:\\DotNet\\IMS.web\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DotNet\\IMS.web\\Views\\StoreInfo\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\StoreInfo\\Index.cshtml",
+              "ToolTip": "D:\\DotNet\\IMS.web\\Views\\StoreInfo\\Index.cshtml",
+              "RelativeToolTip": "Views\\StoreInfo\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T11:36:41.986Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T13:33:54.899Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "StoreInfoController.cs",
-              "DocumentMoniker": "D:\\DotNet\\IMS.web\\Controllers\\StoreInfoController.cs",
-              "RelativeDocumentMoniker": "Controllers\\StoreInfoController.cs",
-              "ToolTip": "D:\\DotNet\\IMS.web\\Controllers\\StoreInfoController.cs",
-              "RelativeToolTip": "Controllers\\StoreInfoController.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAuwCoAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T11:36:36.28Z"
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\DotNet\\IMS.web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\DotNet\\IMS.web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T13:25:08.183Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "RegisterConfirmation.cshtml.cs",
-              "DocumentMoniker": "D:\\DotNet\\IMS.web\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
-              "ToolTip": "D:\\DotNet\\IMS.web\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAMAAAA",
+              "DocumentIndex": 13,
+              "Title": "_Notification.cshtml",
+              "DocumentMoniker": "D:\\DotNet\\IMS.web\\Views\\Shared\\_Notification.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Notification.cshtml",
+              "ToolTip": "D:\\DotNet\\IMS.web\\Views\\Shared\\_Notification.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Notification.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T13:16:04.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TransationViewModel.cs",
+              "DocumentMoniker": "D:\\DotNet\\IMS.models\\ViewModels\\TransationViewModel.cs",
+              "RelativeDocumentMoniker": "..\\IMS.models\\ViewModels\\TransationViewModel.cs",
+              "ToolTip": "D:\\DotNet\\IMS.models\\ViewModels\\TransationViewModel.cs",
+              "RelativeToolTip": "..\\IMS.models\\ViewModels\\TransationViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T04:58:42.595Z"
+              "WhenOpened": "2024-06-18T11:00:27.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductRateInfoController.cs",
+              "DocumentMoniker": "D:\\DotNet\\IMS.web\\Controllers\\ProductRateInfoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductRateInfoController.cs",
+              "ToolTip": "D:\\DotNet\\IMS.web\\Controllers\\ProductRateInfoController.cs",
+              "RelativeToolTip": "Controllers\\ProductRateInfoController.cs",
+              "ViewState": "AQIAAPQAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T10:55:47.051Z"
             },
             {
               "$type": "Document",
@@ -330,167 +228,240 @@
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "ToolTip": "D:\\DotNet\\IMS.web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ViewState": "AQIAAJ0AAAAAAAAAAADwv7YAAAAUAAAA",
+              "ViewState": "AQIAAJQAAAAAAAAAAAAcwKcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T04:58:05.289Z",
+              "WhenOpened": "2024-06-16T13:01:27.564Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "D:\\DotNet\\IMS.web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ToolTip": "D:\\DotNet\\IMS.web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ViewState": "AQIAAB4AAAAAAAAAAADwvzgAAABnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-21T04:58:02.649Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\DotNet\\IMS.web\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\DotNet\\IMS.web\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-21T04:35:08.901Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\DotNet\\IMS.web\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\DotNet\\IMS.web\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "DocumentIndex": 7,
+              "Title": "ProductInfoController.cs",
+              "DocumentMoniker": "D:\\DotNet\\IMS.web\\Controllers\\ProductInfoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductInfoController.cs",
+              "ToolTip": "D:\\DotNet\\IMS.web\\Controllers\\ProductInfoController.cs",
+              "RelativeToolTip": "Controllers\\ProductInfoController.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAgwDwAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T04:32:28.64Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "D:\\DotNet\\IMS.web\\Models\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "Models\\ApplicationUser.cs",
-              "ToolTip": "D:\\DotNet\\IMS.web\\Models\\ApplicationUser.cs",
-              "RelativeToolTip": "Models\\ApplicationUser.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAA3wA0AAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T04:30:21.971Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\DotNet\\IMS.web\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\DotNet\\IMS.web\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAgwAcAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T04:10:00.089Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Notification.cshtml",
-              "DocumentMoniker": "D:\\DotNet\\IMS.web\\Views\\Shared\\Notification.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\Notification.cshtml",
-              "ToolTip": "D:\\DotNet\\IMS.web\\Views\\Shared\\Notification.cshtml",
-              "RelativeToolTip": "Views\\Shared\\Notification.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-20T13:29:27.572Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "D:\\DotNet\\IMS.web\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "D:\\DotNet\\IMS.web\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-20T13:29:20.443Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "D:\\DotNet\\IMS.web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "D:\\DotNet\\IMS.web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-20T13:29:18.552Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Category_Configuration.cs",
-              "DocumentMoniker": "D:\\DotNet\\IMS.infrastructure\\Entity_Configuration\\Category_Configuration.cs",
-              "RelativeDocumentMoniker": "..\\IMS.infrastructure\\Entity_Configuration\\Category_Configuration.cs",
-              "ToolTip": "D:\\DotNet\\IMS.infrastructure\\Entity_Configuration\\Category_Configuration.cs",
-              "RelativeToolTip": "..\\IMS.infrastructure\\Entity_Configuration\\Category_Configuration.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T13:09:37.678Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "CategoryInfo.cs",
-              "DocumentMoniker": "D:\\DotNet\\IMS.models\\Entity\\CategoryInfo.cs",
-              "RelativeDocumentMoniker": "..\\IMS.models\\Entity\\CategoryInfo.cs",
-              "ToolTip": "D:\\DotNet\\IMS.models\\Entity\\CategoryInfo.cs",
-              "RelativeToolTip": "..\\IMS.models\\Entity\\CategoryInfo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T13:07:48.661Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\DotNet\\IMS.web\\Views\\StoreInfo\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\StoreInfo\\Index.cshtml",
-              "ToolTip": "D:\\DotNet\\IMS.web\\Views\\StoreInfo\\Index.cshtml",
-              "RelativeToolTip": "Views\\StoreInfo\\Index.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAIwCYAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-20T13:06:23.685Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\DotNet\\IMS.web\\Views\\CategoryInfo\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\CategoryInfo\\Index.cshtml",
-              "ToolTip": "D:\\DotNet\\IMS.web\\Views\\CategoryInfo\\Index.cshtml",
-              "RelativeToolTip": "Views\\CategoryInfo\\Index.cshtml",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAmwCEAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-20T13:06:01.252Z"
+              "WhenOpened": "2024-06-18T10:55:20.377Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Transaction.cshtml",
+              "DocumentMoniker": "D:\\DotNet\\IMS.web\\Views\\TransactionInfo\\Transaction.cshtml",
+              "RelativeDocumentMoniker": "Views\\TransactionInfo\\Transaction.cshtml",
+              "ToolTip": "D:\\DotNet\\IMS.web\\Views\\TransactionInfo\\Transaction.cshtml",
+              "RelativeToolTip": "Views\\TransactionInfo\\Transaction.cshtml",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAAAKMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T10:54:31.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DashboardList.cs",
+              "DocumentMoniker": "D:\\DotNet\\IMS.models\\ViewModels\\DashboardList.cs",
+              "RelativeDocumentMoniker": "..\\IMS.models\\ViewModels\\DashboardList.cs",
+              "ToolTip": "D:\\DotNet\\IMS.models\\ViewModels\\DashboardList.cs",
+              "RelativeToolTip": "..\\IMS.models\\ViewModels\\DashboardList.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T11:52:05.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DotNet\\IMS.web\\Views\\TransactionInfo\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\TransactionInfo\\Index.cshtml",
+              "ToolTip": "D:\\DotNet\\IMS.web\\Views\\TransactionInfo\\Index.cshtml",
+              "RelativeToolTip": "Views\\TransactionInfo\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T13:53:36.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ICrudService.cs",
+              "DocumentMoniker": "D:\\DotNet\\IMS.infrastructure\\IRepository\\ICrudService.cs",
+              "RelativeDocumentMoniker": "..\\IMS.infrastructure\\IRepository\\ICrudService.cs",
+              "ToolTip": "D:\\DotNet\\IMS.infrastructure\\IRepository\\ICrudService.cs",
+              "RelativeToolTip": "..\\IMS.infrastructure\\IRepository\\ICrudService.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAgwBcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T10:19:29.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CrudService.cs",
+              "DocumentMoniker": "D:\\DotNet\\IMS.infrastructure\\Repository\\CRUD\\CrudService.cs",
+              "RelativeDocumentMoniker": "..\\IMS.infrastructure\\Repository\\CRUD\\CrudService.cs",
+              "ToolTip": "D:\\DotNet\\IMS.infrastructure\\Repository\\CRUD\\CrudService.cs",
+              "RelativeToolTip": "..\\IMS.infrastructure\\Repository\\CRUD\\CrudService.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T10:10:37.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AddEdit.cshtml",
+              "DocumentMoniker": "D:\\DotNet\\IMS.web\\Views\\ProductRateInfo\\AddEdit.cshtml",
+              "RelativeDocumentMoniker": "Views\\ProductRateInfo\\AddEdit.cshtml",
+              "ToolTip": "D:\\DotNet\\IMS.web\\Views\\ProductRateInfo\\AddEdit.cshtml",
+              "RelativeToolTip": "Views\\ProductRateInfo\\AddEdit.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T09:49:53.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RackInfoController.cs",
+              "DocumentMoniker": "D:\\DotNet\\IMS.web\\Controllers\\RackInfoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RackInfoController.cs",
+              "ToolTip": "D:\\DotNet\\IMS.web\\Controllers\\RackInfoController.cs",
+              "RelativeToolTip": "Controllers\\RackInfoController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwCgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T09:43:09.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddEdit.cshtml",
+              "DocumentMoniker": "D:\\DotNet\\IMS.web\\Views\\ProductInfo\\AddEdit.cshtml",
+              "RelativeDocumentMoniker": "Views\\ProductInfo\\AddEdit.cshtml",
+              "ToolTip": "D:\\DotNet\\IMS.web\\Views\\ProductInfo\\AddEdit.cshtml",
+              "RelativeToolTip": "Views\\ProductInfo\\AddEdit.cshtml",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T09:05:25.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddEdit.cshtml",
+              "DocumentMoniker": "D:\\DotNet\\IMS.web\\Views\\StoreInfo\\AddEdit.cshtml",
+              "RelativeDocumentMoniker": "Views\\StoreInfo\\AddEdit.cshtml",
+              "ToolTip": "D:\\DotNet\\IMS.web\\Views\\StoreInfo\\AddEdit.cshtml",
+              "RelativeToolTip": "Views\\StoreInfo\\AddEdit.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T08:58:54.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "CategoryInfoController.cs",
               "DocumentMoniker": "D:\\DotNet\\IMS.web\\Controllers\\CategoryInfoController.cs",
               "RelativeDocumentMoniker": "Controllers\\CategoryInfoController.cs",
               "ToolTip": "D:\\DotNet\\IMS.web\\Controllers\\CategoryInfoController.cs",
               "RelativeToolTip": "Controllers\\CategoryInfoController.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAYwCIAAAArAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T13:05:40.12Z"
+              "WhenOpened": "2024-06-18T08:58:10.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StoreInfoController.cs",
+              "DocumentMoniker": "D:\\DotNet\\IMS.web\\Controllers\\StoreInfoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StoreInfoController.cs",
+              "ToolTip": "D:\\DotNet\\IMS.web\\Controllers\\StoreInfoController.cs",
+              "RelativeToolTip": "Controllers\\StoreInfoController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowFAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T10:27:14.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "D:\\DotNet\\IMS.web\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "D:\\DotNet\\IMS.web\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T16:57:38.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DotNet\\IMS.web\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "D:\\DotNet\\IMS.web\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T11:55:09.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "D:\\DotNet\\IMS.web\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DashboardController.cs",
+              "ToolTip": "D:\\DotNet\\IMS.web\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwCgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T11:53:48.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProductRateInfo.cs",
+              "DocumentMoniker": "D:\\DotNet\\IMS.models\\Entity\\ProductRateInfo.cs",
+              "RelativeDocumentMoniker": "..\\IMS.models\\Entity\\ProductRateInfo.cs",
+              "ToolTip": "D:\\DotNet\\IMS.models\\Entity\\ProductRateInfo.cs",
+              "RelativeToolTip": "..\\IMS.models\\Entity\\ProductRateInfo.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowD0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T10:04:53.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DotNet\\IMS.web\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Index.cshtml",
+              "ToolTip": "D:\\DotNet\\IMS.web\\Views\\Account\\Index.cshtml",
+              "RelativeToolTip": "Views\\Account\\Index.cshtml",
+              "ViewState": "AQIAAE4AAAAAAAAAAIBJwGQAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T11:36:00.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PrintReport.cshtml",
+              "DocumentMoniker": "D:\\DotNet\\IMS.web\\Views\\TransactionInfo\\PrintReport.cshtml",
+              "RelativeDocumentMoniker": "Views\\TransactionInfo\\PrintReport.cshtml",
+              "ToolTip": "D:\\DotNet\\IMS.web\\Views\\TransactionInfo\\PrintReport.cshtml",
+              "RelativeToolTip": "Views\\TransactionInfo\\PrintReport.cshtml",
+              "ViewState": "AQIAAKkAAAAAAAAAAAAUwMMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T13:52:11.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TransactionInfoController.cs",
+              "DocumentMoniker": "D:\\DotNet\\IMS.web\\Controllers\\TransactionInfoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TransactionInfoController.cs",
+              "ToolTip": "D:\\DotNet\\IMS.web\\Controllers\\TransactionInfoController.cs",
+              "RelativeToolTip": "Controllers\\TransactionInfoController.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAewFMAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T13:49:18.619Z"
             }
           ]
         }

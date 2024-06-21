@@ -10,3 +10,4 @@ D:\DotNet\IMS.models\obj\Debug\net8.0\refint\IMS.models.dll
 D:\DotNet\IMS.models\obj\Debug\net8.0\IMS.models.pdb
 D:\DotNet\IMS.models\obj\Debug\net8.0\ref\IMS.models.dll
 D:\DotNet\IMS.models\obj\Debug\net8.0\IMS.models.sourcelink.json
+D:\DotNet\IMS.models\obj\Debug\net8.0\IMS.models.csproj.AssemblyReference.cache

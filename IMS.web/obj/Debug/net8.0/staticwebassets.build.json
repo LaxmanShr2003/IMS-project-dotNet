@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "rUIiKffXsfVTu34iSAm5P0cnucaQzHpBzGYroX1XtL0=",
+  "Hash": "2sSu9UcrtIJvePyxEbaahgIMLHejxEZFwRIbBcEnU8I=",
   "Source": "IMS.web",
   "BasePath": "_content/IMS.web",
   "Mode": "Default",
@@ -1195,6 +1195,25 @@
       "OriginalItemSpec": "D:\\DotNet\\IMS.web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\IMS.web.bundle.scp.css"
     },
     {
+      "Identity": "D:\\DotNet\\IMS.web\\wwwroot\\css\\bootstrap.min.css",
+      "SourceId": "IMS.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DotNet\\IMS.web\\wwwroot\\",
+      "BasePath": "_content/IMS.web",
+      "RelativePath": "css/bootstrap.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
+    },
+    {
       "Identity": "D:\\DotNet\\IMS.web\\wwwroot\\css\\site.css",
       "SourceId": "IMS.web",
       "SourceType": "Discovered",
@@ -2333,6 +2352,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "D:\\DotNet\\IMS.web\\wwwroot\\ProductImage\\asar2.jpg",
+      "SourceId": "IMS.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DotNet\\IMS.web\\wwwroot\\",
+      "BasePath": "_content/IMS.web",
+      "RelativePath": "ProductImage/asar2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ProductImage\\asar2.jpg"
     }
   ]
 }
